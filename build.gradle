@@ -18,8 +18,8 @@ buildscript {
 apply plugin: 'forge'
 
 version = "1.0"
-group= "net.quantium.serverutils" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "serverutils"
+group= "net.quantium.projectsuperposition" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "projectsuperposition"
 
 minecraft {
     version = "1.7.10-10.13.4.1558-1.7.10"
