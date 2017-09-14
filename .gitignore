@@ -1,0 +1,12 @@
+/bin/
+
+/api/
+/build/
+/eclipse/
+/gradle/
+/logs/
+/gradlew
+/gradlew.bat
+/.gradle/
+/.settings/
+/.metadata/
