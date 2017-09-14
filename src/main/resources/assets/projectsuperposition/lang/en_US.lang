@@ -1,0 +1,107 @@
+bio.access=GIVE ACCESS TO
+bio.animal=ANIMAL
+bio.anyplayer=ANY PLAYER
+bio.empty=<EMPTY>
+bio.living=LIVING
+bio.malformed=MALFORMED
+bio.mob=MOB
+bio.notset=<NOT SET>
+bio.player=PLAYER: 
+bio.protect=PROTECT FROM
+
+card.value=Value: 
+
+cell.density=Density: 
+cell.liquid=Liquid: 
+cell.luminosity=Luminosity: 
+cell.temperature=Temperature: 
+cell.viscosity=Viscosity: 
+
+field.destroy=PREVENTS FROM DESTROYING
+field.enter=PREVENTS FROM ENTERING
+field.interact=PREVENTS FROM INTERACTING
+field.place=PREVENTS FROM PLACING
+
+holo.done=Done
+
+info.loading.placeholder=Loading
+info.loading.placeholder.dot=.
+info.disabled=<DISABLED>
+info.energy=Energy
+info.loading=<LOADING>
+info.locator.status.targetted=Targetted
+info.locator.status.locating=Locating
+info.locator.status.invalid=Invalid
+info.status=Status
+info.turret.pitch=Pitch
+info.turret.target=Target
+info.turret.yaw=Yaw
+info.turret.facing=Facing
+info.undefined=<UNDEFINED>
+info.field.length=Length
+info.field.width=Width
+info.field.height=Height
+info.field.offset.x=Offset X
+info.field.offset.y=Offset Y
+info.field.offset.z=Offset Z
+info.teleporter.dimension=Entangled Dimension
+info.teleporter.position.x=Entangled Portal X
+info.teleporter.position.y=Entangled Portal Y
+info.teleporter.position.z=Entangled Portal Z
+info.teleporter.noentanglement=<NO ENTANGLEMENT>
+info.text.rotating=Rotating
+info.text.orientation=Orientation
+info.time=Time
+info.pendingcreate=Creating
+info.seconds=s
+info.degrees=deg
+
+ingot.info=Fe2SiO4
+
+item.biometriccard.name=Biometric Card
+item.bioreader.name=Biometric Reader
+item.cell.name=Cell
+item.chipaq.name=Chip: Type A
+item.chipbaseq.name=Chip: Base
+item.chipbq.name=Chip: Type B
+item.coilelement.name=Coil Element
+item.endercore.name=Ender Core
+item.fieldcard.name=Field Preventor Card
+item.handle.name=Handle
+item.impulsegen.name=Impulse Generator
+item.pipe.name=Pipe
+item.plate.name=Fayalite Plate
+item.portallinker.name=Enderportal Linker
+item.screwdriver.name=Screwdriver
+item.siliconq.name=Silicon
+item.sizecard.name=Size/Offset Card
+item.solderingiron.name=Soldering-Iron
+item.solenoid.name=Solenoid
+item.tomatoKyouko.name=Toshinou Kyouko's Tomato
+item.unhandledingot.name=Unhandled Fayalite
+item.welder.name=Welder
+item.whiteironingotq.name=Fayalite Ingot
+
+itemGroup.projectsuperposition=Project Superposition
+
+linker.linkInfo=Linked to: 
+linker.message=Portals linked!
+
+soldering.create=Create
+
+tile.autoturret.name=Automatic Turret
+tile.conductor.name=Conductor
+tile.doubledPlatedSlab.name=Doubled Plated Slab
+tile.electriccoil.name=Electric Coil
+tile.enderporter.name=Enderporter
+tile.energyController.name=Energy Controller
+tile.fieldgenerator.name=Field Generator
+tile.holotext.name=Text Holographic Projector
+tile.ism.name=Impulsive Suction Module
+tile.platedCorner.name=Plated Corner
+tile.platedHull.name=Plated Hull
+tile.platedSlab.name=Plated Slab
+tile.platedStairs.name=Plated Stairs
+tile.pon3.name=PON3 Player
+tile.soldering.name=Soldering Station
+tile.welding.name=Welding Station

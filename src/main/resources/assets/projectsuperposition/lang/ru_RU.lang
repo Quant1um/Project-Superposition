@@ -1,0 +1,102 @@
+bio.access=ДАТЬ ДОСТУП
+bio.animal=ЖИВОТНОЕ
+bio.anyplayer=ЛЮБОЙ ИГРОК
+bio.empty=<ПУСТО>
+bio.living=ЖИВАЯ СУЩНОСТЬ
+bio.malformed=ПОВРЕЖДЕНО
+bio.mob=МОБ
+bio.notset=<НЕ УСТАНОВЛЕНО>
+bio.player=ИГРОК: 
+bio.protect=ЗАЩИЩАТЬ ОТ
+
+card.value=Значение: 
+
+cell.density=Плотность: 
+cell.liquid=Жидкость: 
+cell.luminosity=Люменисцентность: 
+cell.temperature=Температура: 
+cell.viscosity=Вязкость: 
+
+field.destroy=ПРЕДОТВРАЩАЕТ ОТ РАЗРУШЕНИЯ
+field.enter=ПРЕДОТВРАЩАЕТ ОТ ВХОДА
+field.interact=ПРЕДОТВРАЩАЕТ ОТ ВЗАИМОДЕЙСТВИЯ
+field.place=ПРЕДОТВРАЩАЕТ ОТ УСТАНОВКИ
+
+holo.done=Готово
+
+info.loading.placeholder=Загрузка
+info.loading.placeholder.dot=.
+info.disabled=<ОТКЛЮЧЕНО>
+info.energy=Энергия
+info.loading=<ЗАГРУЗКА>
+info.locator.status.targetted=Зафиксирвано
+info.locator.status.locating=Поиск
+info.locator.status.invalid=Неверное
+info.status=Состояние
+info.turret.pitch=Угол Y
+info.turret.target=Цель
+info.turret.yaw=Угол X
+info.turret.facing=Направление
+info.undefined=<UNDEFINED>
+info.field.length=Длина
+info.field.width=Ширина
+info.field.height=Высота
+info.field.offset.x=Смещение X
+info.field.offset.y=Смещение Y
+info.field.offset.z=Смещение Z
+info.teleporter.dimension=Связанное измерение
+info.teleporter.position.x=Связанный портал: X
+info.teleporter.position.y=Связанный портал: Y
+info.teleporter.position.z=Связанный портал: Z
+info.teleporter.noentanglement=<НЕ СВЯЗАНО>
+info.text.rotating=Поворот
+info.text.orientation=Ориентация
+info.time=Время
+info.pendingcreate=Создание
+info.seconds=с
+info.degrees=град
+
+item.biometriccard.name=Биометрическая карта
+item.bioreader.name=Биометрический считыватель
+item.cell.name=Капсула
+item.chipaq.name=Чип: Тип A
+item.chipbaseq.name=Чип: Основа
+item.chipbq.name=Чип: Тип B
+item.coilelement.name=Элемент катушки
+item.endercore.name=Эндер-ядро
+item.fieldcard.name=Карта предотвращения
+item.handle.name=Ручка
+item.impulsegen.name=Импульсный генератор
+item.pipe.name=Труба
+item.plate.name=Фаялитовая пластина
+item.portallinker.name=Калибратор частот
+item.screwdriver.name=Отвертка
+item.siliconq.name=Силикон
+item.sizecard.name=Карта смещения/размера
+item.solderingiron.name=Паяльник
+item.solenoid.name=Соленоид
+item.tomatoKyouko.name=Томат от Тошино Кёко
+item.unhandledingot.name=Необработанный фаялит
+item.welder.name=Сварщик
+item.whiteironingotq.name=Фаялитовый слиток
+
+linker.linkInfo=Связано с: 
+linker.message=Порталы связаны!
+
+soldering.create=Срздать
+
+tile.autoturret.name=Автоматическая туррель
+tile.conductor.name=Проводник
+tile.doubledPlatedSlab.name=Двойная фаялитовая плита
+tile.electriccoil.name=Электрическая катушка
+tile.enderporter.name=Эндерпортер
+tile.energyController.name=Энергетический контроллер
+tile.fieldgenerator.name=Генератор силового поля
+tile.holotext.name=Голографический текстовый проектор
+tile.ism.name=Модуль импульсивного всасывания
+tile.platedCorner.name=Фаялитовый уголок
+tile.platedHull.name=Фаялитовый корпус
+tile.platedSlab.name=Фаялитовая плита
+tile.platedStairs.name=Фаялитовая лестница
+tile.soldering.name=Паяльная станция
+tile.welding.name=Сварочная станция
